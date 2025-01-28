@@ -1,0 +1,5 @@
+search_box = "gh-ac"
+search_button = "gh-search-btn"
+first_search_result = "(//div[@id='srp-river-results']//div[@class='s-item__title'])[1]"
+add_to_cart_button = "//span[contains(text(),'Add to cart')]"
+item_added_icon = "//span[@class='gh-cart__icon' and contains(@aria-label, 'Your shopping cart contains')]"
