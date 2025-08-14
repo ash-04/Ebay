@@ -1,0 +1,7 @@
+name: Cross-Platform Smoke Tests
+
+on:
+  push:
+      branches: [main]
+ 
+  
